@@ -1,0 +1,14 @@
+Tem 10 astronautas abordo 
+
+Oleg Artemyev- a bordo
+Denis Matveev- a bordo
+Sergey Korsakov- a bordo
+Kjell Lindgren- a bordo
+Bob Hines- a bordo
+Samantha Cristoforetti- a bordo
+Jessica Watkins- a bordo
+Cai Xuzhe- a bordo
+Chen Dong- a bordo
+Liu Yang- a bordo
+
+ Latitute/ Longitude : [-20.8911, -47.585]
